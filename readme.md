@@ -7,7 +7,6 @@ This repository contains the official pytorch implementation of the ICLR2026 pap
   <img src="figs/method.png" width=90%/>
 </p>
 
-
 ## Environment Setup
 ```bash
 conda create HIRE python=3.10
@@ -23,7 +22,6 @@ pip install -r requirements.txt
 
 ## Models
 *About model Pre-trained checkpoints*
-
 - [**LLaVA-1.5**](https://github.com/haotian-liu/LLaVA): Download [LLaVA-1.5 merged 7B](https://huggingface.co/liuhaotian/llava-v1.5-7b)
 
 ## Training
